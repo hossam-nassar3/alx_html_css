@@ -32,3 +32,9 @@ footer {
     background: #ccc;
     text-align: center;
 }
+
+.logo {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-right: 1rem;
+}
